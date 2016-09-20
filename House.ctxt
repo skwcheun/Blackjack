@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=House()
+comment1.params=tempDeck
+comment1.target=void\ hit(Deck)
+comment1.text=\r\n\ @param\ tempDeck\ Takes\ in\ a\ deck\ for\ method\ to\ "hit"\ or\ draw\ card\ from\r\n\ Method\ draws\ a\ random\ card\ from\ the\ deck\ given\ and\ adds\ the\ card\ to\ dealers\ hand,\ \r\n\ Checks\ to\ find\ value\ of\ card\ and\ then\ adds\ to\ array\ of\ cardValues\r\n
+comment2.params=
+comment2.target=void\ showHand()
+comment2.text=\r\n\ Method\ prints\ out\ the\ house's\ cards\ (hand)\r\n
+comment3.params=
+comment3.target=void\ nextHand()
+comment3.text=\r\n\ Method\ resets\ all\ boolean\ values\ and\ clears\ dealer's\ hand\ in\ preperation\ for\ next\ round\r\n
+comment4.params=
+comment4.target=int\ getHand()
+comment4.text=\r\n\ Method\ returns\ hand\ total\r\n
+comment5.params=
+comment5.target=boolean\ over17()
+comment5.text=\r\n\ Method\ checks\ to\ see\ if\ the\ house's\ hand\ is\ 17\ or\ higher,\ controls\ the\ house's\ hitting\r\n
+comment6.params=
+comment6.target=boolean\ isBust()
+comment6.text=\r\n\ Method\ checks\ to\ see\ if\ house\ is\ bust\r\n
+comment7.params=
+comment7.target=boolean\ hasAce()
+comment7.text=\r\n\ Checks\ if\ the\ dealer\ has\ an\ ace\r\n
+numComments=8

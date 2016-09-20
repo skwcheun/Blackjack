@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=numDecks
+comment0.target=Deck(int)
+comment0.text=\r\n\ @param\ numDecks\ This\ number\ is\ the\ number\ of\ decks\ for\ the\ game\r\n\ Method\ adds\ every\ card\ in\ a\ deck\ *\ param\ number\r\n
+comment1.params=
+comment1.target=java.lang.String\ drawCard()
+comment1.text=\r\n\ Method\ uses\ a\ random\ generator\ to\ pick\ a\ card\ out\ of\ the\ total\ card\ arraylist,\ removes\ the\ card\ from\ the\ list\ then\ returns\ it\r\n
+comment2.params=
+comment2.target=void\ printDeck()
+comment2.text=\r\n\ Method\ was\ used\ for\ testing,\ used\ to\ print\ out\ the\ deck\r\n
+comment3.params=
+comment3.target=int\ getCardsLeft()
+comment3.text=\r\n\ Method\ returns\ number\ of\ cards\ left\r\n
+numComments=4
